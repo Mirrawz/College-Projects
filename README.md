@@ -1,4 +1,4 @@
-Here is the Projects I have worked on for college.
+Here are the Projects I have worked on for college.
 
 The bill.sh is a linux script that prompts the user for a total to their hydro bill and calculates based on a split of each $50. The first at x1, the second at x2, the third at x3 and the 4th at x4.
 
